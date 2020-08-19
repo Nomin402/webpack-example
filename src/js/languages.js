@@ -5,3 +5,5 @@ languages =  [
     'Italian: Salve',
     'Mongolian: Sainuu'
 ]
+
+export {languages}
