@@ -1,5 +1,6 @@
 import {randomButton, hello} from './finder'
 import {languages} from './languages'
+import '../css/main.css'
 
 randomButton.addEventListener('click', changeLanguage);
 
